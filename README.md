@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Leanne
-- 👀 I’m interested in software engineering and developing
-- 🌱 I’m currently learning Python
